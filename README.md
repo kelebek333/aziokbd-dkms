@@ -26,3 +26,13 @@ You must disable secureboot from BIOS/EFI settings
 `sudo dkms remove aziokbd/1.0.0 --all`
 
 `sudo rm -f /etc/modprobe.d/usbhid.conf`
+
+## How To Install/Remove with Deb Package
+
+You can download and install with Gdebi.
+
+[aziokbd-dkms_1.0.0_amd64.deb)](https://github.com/kelebek333/aziokbd-dkms/raw/master/aziokbd-dkms_1.0.0_amd64.deb)
+
+You can remove with following command.
+
+`sudo apt purge aziokbd-dkms`
