@@ -29,7 +29,7 @@ You must disable secureboot from BIOS/EFI settings
 
 ## How To Install/Remove with Deb Package
 
-You can download and install with Gdebi.
+You can download and install with Gdebi following Deb package .
 
 [aziokbd-dkms_1.0.0_amd64.deb](https://github.com/kelebek333/aziokbd-dkms/raw/master/aziokbd-dkms_1.0.0_amd64.deb)
 
