@@ -1,7 +1,7 @@
 # aziokbd-dkms
 Linux Microdia Keyboard Chipset Driver
 
-Original source => https://bitbucket.org/Swoogan/aziokbd [Swoogan/aziokbd](https://bitbucket.org/Swoogan/aziokbd)
+Original source => [Swoogan/aziokbd](https://bitbucket.org/Swoogan/aziokbd)
 
 ## Install Requirements
 
